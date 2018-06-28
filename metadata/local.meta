@@ -1,0 +1,58 @@
+[app/ui]
+version = 7.1.0
+modtime = 1524722923.559511600
+
+[app/launcher]
+version = 7.1.0
+modtime = 1524722923.577505500
+
+[props/tourlist]
+owner = admin
+version = 7.1.0
+modtime = 1524722601.396296800
+
+[indexes/publicdata]
+owner = admin
+version = 7.1.0
+modtime = 1524722618.835716100
+
+[props/accommodation]
+owner = admin
+version = 7.1.0
+modtime = 1524722697.447376300
+
+[views/tour]
+owner = admin
+version = 7.1.0
+modtime = 1524725057.442909800
+
+[app/package/check_for_updates]
+version = 7.1.0
+modtime = 1524722923.587513100
+
+[nav/default]
+version = 7.1.0
+modtime = 1524725108.954822600
+
+[props/eco_car]
+owner = admin
+version = 7.1.0
+modtime = 1524729006.317436000
+
+[lookups/skorea_provinces_simple.kml]
+access = read : [ * ], write : [ admin, power ]
+export = system
+owner = nobody
+version = 7.1.0
+modtime = 1524731552.550131400
+
+[transforms/skorea]
+export = none
+owner = admin
+version = 7.1.0
+modtime = 1524731574.306598800
+
+[indexes/cae]
+owner = admin
+version = 7.1.0
+modtime = 1526018893.183203100

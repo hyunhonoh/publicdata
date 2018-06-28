@@ -1,0 +1,11 @@
+<nav search_view="search">
+  <view name="tour" default='true'/>
+  <collection label="Menu">
+  <view name="search"  />
+  <view name="datasets" />
+  <view name="reports" />
+  <view name="alerts" />
+  <view name="dashboards" />
+
+  </collection>
+</nav>
